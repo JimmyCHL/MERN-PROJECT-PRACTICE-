@@ -1,0 +1,5 @@
+This app is FullStack app with frontend and backend.
+Heroku for backend server and netlify for front end server.
+This FullStack app heavily utlized API call and redux to handle or functionality and data for UI
+The backend, jwt api routes middlewar can be for future review.
+The frontend, redux thunks Material UI can be future reference.
